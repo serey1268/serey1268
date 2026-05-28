@@ -24,92 +24,31 @@
 </p>
 
 ---
-
 # 🧠 Scientific Computing:
 
-<table>
-<tr>
+<p align="center">
 
-<td width="20%" align="center">
+<img src="https://img.shields.io/badge/Calculus-2563eb?style=for-the-badge&logo=wolfram&logoColor=white"/>
+<img src="https://img.shields.io/badge/Linear%20Algebra-7c3aed?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/Statistics-16a34a?style=for-the-badge&logo=databricks&logoColor=white"/>
+<img src="https://img.shields.io/badge/Numerical%20Analysis-f59e0b?style=for-the-badge&logo=scipy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Differential%20Equations-dc2626?style=for-the-badge&logo=latex&logoColor=white"/>
 
-## 🔷 Calculus
-
-</td>
-
-<td width="20%" align="center">
-
-## 🟪 Linear Algebra
-
-</td>
-
-<td width="20%" align="center">
-
-## 🟩 Statistics
-
-</td>
-
-<td width="20%" align="center">
-
-## 🟨 Numerical Analysis
-
-</td>
-
-<td width="20%" align="center">
-
-## 🟥 Differential Equations
-
-</td>
-
-</tr>
-</table>
+</p>
 
 ---
 
 # 🤖 Machine Learning Algorithms:
 
-<table>
-<tr>
+<p align="center">
 
-<td width="20%" align="center">
+<img src="https://img.shields.io/badge/Linear%20Regression-2563eb?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+<img src="https://img.shields.io/badge/Logistic%20Regression-7c3aed?style=for-the-badge&logo=pytorch&logoColor=white"/>
+<img src="https://img.shields.io/badge/Support%20Vector%20Machine-16a34a?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/Lasso%20Regression-f59e0b?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Elastic%20Net-dc2626?style=for-the-badge&logo=numpy&logoColor=white"/>
 
-## 📈 Linear Regression
-
-</td>
-
-<td width="20%" align="center">
-
-## 📉 Logistic Regression
-
-</td>
-
-<td width="20%" align="center">
-
-## 📊 Support Vector Machine
-
-</td>
-
-<td width="20%" align="center">
-
-## λ Lasso Regression
-
-</td>
-
-<td width="20%" align="center">
-
-## 🔗 Elastic Net
-
-</td>
-
-</tr>
-</table>
-
----
-
-# 🚀 Current Focus
-
-- Mathematical Modeling  
-- Machine Learning Projects  
-- Calculus Projects  
+</p>
 
 ---
 
