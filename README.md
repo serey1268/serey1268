@@ -26,7 +26,7 @@
 ---
 # 🧠 Scientific Computing:
 
-<p align="left">
+<p align="center">
 
 <img src="https://img.shields.io/badge/Calculus-2563eb?style=for-the-badge&logo=wolfram&logoColor=white"/>
 <img src="https://img.shields.io/badge/Linear%20Algebra-7c3aed?style=for-the-badge&logo=tensorflow&logoColor=white"/>
