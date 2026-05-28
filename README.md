@@ -1,12 +1,205 @@
+# 👋 Hi, I'm Chan Serey
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=serey1268&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=serey1268&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=serey1268&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+> Deep thinker in mathematics, physics, engineering, and artificial intelligence.
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+</p>
 
 ---
-[![](https://komarev.com/ghpvc/?username=serey1268&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+# 💻 Tech Stack:
+
+<p align="left">
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=plotly&logoColor=black"/>
+<img src="https://img.shields.io/badge/yFinance-16a34a?style=for-the-badge&logo=yahoo&logoColor=white"/>
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+<img src="https://img.shields.io/badge/SciPy-0C55A5?style=for-the-badge&logo=scipy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white"/>
+
+</p>
+
+---
+
+# 🧠 Scientific Computing:
+
+<table>
+<tr>
+
+<td width="20%">
+
+## 🔷 Calculus
+- Limits
+- Derivatives
+- Integrals
+- Multivariable Calculus
+- Vector Calculus
+
+</td>
+
+<td width="20%">
+
+## 🟪 Linear Algebra
+- Vectors & Matrices
+- Matrix Operations
+- Eigenvalues & Eigenvectors
+- Decompositions
+- Linear Systems
+
+</td>
+
+<td width="20%">
+
+## 🟢 Statistics
+- Descriptive Statistics
+- Probability
+- Hypothesis Testing
+- Regression Analysis
+- Distributions
+
+</td>
+
+<td width="20%">
+
+## 🟠 Numerical Analysis
+- Root Finding
+- Interpolation
+- Numerical Integration
+- Differentiation
+- Optimization
+
+</td>
+
+<td width="20%">
+
+## 🔴 Differential Equations
+- ODEs
+- PDEs
+- Systems of Equations
+- Boundary Value Problems
+
+</td>
+
+</tr>
+</table>
+
+---
+
+# 🤖 Machine Learning Algorithms:
+
+<table>
+<tr>
+
+<td width="20%" align="center">
+
+## 📈 Linear Regression
+
+Model the relationship between dependent and independent variables using a linear approach.
+
+</td>
+
+<td width="20%" align="center">
+
+## 📉 Logistic Regression
+
+Classification algorithm using the logistic function to model binary outcomes.
+
+</td>
+
+<td width="20%" align="center">
+
+## 📊 Support Vector Machine
+
+Finds the optimal hyperplane that best separates classes in feature space.
+
+</td>
+
+<td width="20%" align="center">
+
+## λ Lasso Regression
+
+L1 regularization that performs feature selection by shrinking coefficients.
+
+</td>
+
+<td width="20%" align="center">
+
+## 🔗 Elastic Net
+
+Combines L1 and L2 regularization for improved predictive performance.
+
+</td>
+
+</tr>
+</table>
+
+---
+
+# 📊 GitHub Stats:
+
+<p align="center">
+
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
+
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight"/>
+
+</p>
+
+<p align="center">
+
+<img width="97%" src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night"/>
+
+</p>
+
+---
+
+# 🌐 Connect with me:
+
+<p align="left">
+
+<a href="https://github.com/YOUR_USERNAME">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://www.kaggle.com/YOUR_KAGGLE">
+  <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
+</a>
+
+<a href="mailto:YOUR_EMAIL@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://YOUR_PORTFOLIO.com">
+  <img src="https://img.shields.io/badge/Portfolio-6f42c1?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+# 🚀 Current Focus
+
+- Machine Learning Research
+- Scientific Computing
+- Artificial Intelligence
+- Mathematical Modeling
+- Physics & Engineering
+- Deep Learning with PyTorch
+
+---
+
+# 🌌 Philosophy
+
+> “Mathematics is the language of the universe.”
+
+---
