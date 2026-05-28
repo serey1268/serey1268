@@ -1,7 +1,7 @@
 # 👋 Hi, My name is  Chan Serey
 
 >  I am third year student in Institute of Technology of Cambodia. Currently , i am in the department of ppplied mathematic and statistic.
-> I am kind of person who like to solve the problem in mathematic and get deep understanding on specfic topic of mathematic. In my free time 
+> I am kind of person who like to solve the problem in mathematic and get deep understanding on specfic topic of mathematic. In my free time jjjgjjg
 
 
 ---
