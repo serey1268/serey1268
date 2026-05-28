@@ -1,10 +1,8 @@
-# 👋 Hi, My name is  Chan Serey
+# 👋 Hi, My name is Chan Serey
 
-> I am third year student in Institute of Technology of Cambodia. Currently , i am in the department of applied mathematic and statistic.
-> I am kind of person who like to solve the problem in mathematic and get deep understanding on specfic topic of mathematic. Moreover , physic is also my favorite
-> subject that i like to study and do a researh such as quantum mechanic especially. In the future , i want to be mathematician and theorical division leader in
-> the labolatory or industry to create something. 
-
+> I am a third-year student at the Institute of Technology of Cambodia, currently studying in the Department of Applied Mathematics and Statistics.  
+> I am passionate about solving mathematical problems and developing a deep understanding of advanced mathematical concepts. Moreover, physics is also one of my favorite subjects, especially theoretical and quantum mechanics.  
+> In the future, I want to become a mathematician and lead a theoretical division in a laboratory or industry to create innovative scientific solutions.
 
 ---
 
@@ -32,62 +30,33 @@
 <table>
 <tr>
 
-<td width="20%">
+<td width="20%" align="center">
 
 ## 🔷 Calculus
 
-- Limits  
-- Derivatives  
-- Integrals  
-- Multivariable Calculus  
-- Vector Calculus  
-
 </td>
 
-<td width="20%">
+<td width="20%" align="center">
 
 ## 🟪 Linear Algebra
 
-- Vectors & Matrices  
-- Matrix Operations  
-- Eigenvalues & Eigenvectors  
-- Decompositions  
-- Linear Systems  
-
 </td>
 
-<td width="20%">
+<td width="20%" align="center">
 
 ## 🟩 Statistics
 
-- Descriptive Statistics  
-- Probability  
-- Hypothesis Testing  
-- Regression Analysis  
-- Distributions  
-
 </td>
 
-<td width="20%">
+<td width="20%" align="center">
 
 ## 🟨 Numerical Analysis
 
-- Root Finding  
-- Interpolation  
-- Numerical Integration  
-- Differentiation  
-- Optimization  
-
 </td>
 
-<td width="20%">
+<td width="20%" align="center">
 
 ## 🟥 Differential Equations
-
-- ODEs  
-- PDEs  
-- Systems of Equations  
-- Boundary Value Problems  
 
 </td>
 
@@ -105,15 +74,11 @@
 
 ## 📈 Linear Regression
 
-Model the relationship between dependent and independent variables using a linear approach.
-
 </td>
 
 <td width="20%" align="center">
 
 ## 📉 Logistic Regression
-
-Classification algorithm using the logistic function to model binary outcomes.
 
 </td>
 
@@ -121,23 +86,17 @@ Classification algorithm using the logistic function to model binary outcomes.
 
 ## 📊 Support Vector Machine
 
-Finds the optimal hyperplane that best separates classes in feature space.
-
 </td>
 
 <td width="20%" align="center">
 
 ## λ Lasso Regression
 
-L1 regularization that performs feature selection by shrinking coefficients.
-
 </td>
 
 <td width="20%" align="center">
 
 ## 🔗 Elastic Net
-
-Combines L1 and L2 regularization for improved predictive performance.
 
 </td>
 
@@ -149,13 +108,11 @@ Combines L1 and L2 regularization for improved predictive performance.
 # 🚀 Current Focus
 
 - Mathematical Modeling  
-- Projects with Machine Learning  
-- Projects on Calculus  
+- Machine Learning Projects  
+- Calculus Projects  
 
 ---
 
 # 🌌 Philosophy
 
 > “Mathematics is the language of the universe.”
-
----
