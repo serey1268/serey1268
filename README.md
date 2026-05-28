@@ -1,14 +1,16 @@
 # 👋 Hi, My name is Chan Serey
 
-> I am a third-year student at the Institute of Technology of Cambodia, currently studying in the Department of Applied Mathematics and Statistics.  
-> I am passionate about solving mathematical problems and developing a deep understanding of advanced mathematical concepts. Moreover, physics is also one of my favorite subjects, especially theoretical and quantum mechanics.  
-> In the future, I want to become a mathematician and lead a theoretical division in a laboratory or industry to create innovative scientific solutions.
+> Third-year student at the Institute of Technology of Cambodia  
+> Department of Applied Mathematics and Statistics  
+> Passionate about Mathematics, Physics, Scientific Computing, and Machine Learning.  
+> Interested in theoretical mathematics, quantum mechanics, and advanced problem solving.  
+> Future goal: becoming a mathematician and leading a theoretical division in research or industry.
 
 ---
 
-# 💻 Tech Stack:
+# 💻 Tech Stack
 
-<p align="left">
+<p align="center">
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"/>
@@ -24,7 +26,8 @@
 </p>
 
 ---
-# 🧠 Scientific Computing:
+
+# 🧠 Scientific Computing
 
 <p align="center">
 
@@ -35,9 +38,10 @@
 <img src="https://img.shields.io/badge/Differential%20Equations-dc2626?style=for-the-badge&logo=latex&logoColor=white"/>
 
 </p>
+
 ---
 
-# 🤖 Machine Learning Algorithms:
+# 🤖 Machine Learning Algorithms
 
 <p align="center">
 
