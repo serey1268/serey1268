@@ -58,3 +58,19 @@
 # 🌌 Philosophy
 
 > “Mathematics is the language of the universe.”
+
+# 🎯 Current Focus
+
+- 📊 Statistical Analysis Projects  
+- 🤖 Machine Learning Projects  
+- 📈 Calculus and Advanced Mathematics Projects  
+
+---
+
+# 🚀 Future Focus
+
+- 💰 Quantitative Finance  
+- 🧠 Research in Mathematical Theory  
+- 🔬 Scientific Computing and Mathematical Modeling  
+
+
