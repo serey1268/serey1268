@@ -1,6 +1,7 @@
-# 👋 Hi, I'm Chan Serey
+# 👋 Hi, My name is  Chan Serey
 
-> Deep thinker in mathematics, physics, engineering, and artificial intelligence.
+>  I am third year student in Institute of Technology of Cambodia. Currently , i am in the department of ppplied mathematic and statistic. 
+
 
 ---
 
