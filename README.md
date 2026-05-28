@@ -1,7 +1,9 @@
 # 👋 Hi, My name is  Chan Serey
 
 > I am third year student in Institute of Technology of Cambodia. Currently , i am in the department of applied mathematic and statistic.
-> I am kind of person who like to solve the problem in mathematic and get deep understanding on specfic topic of mathematic. Moreover , physic is also my favorite subject that i like to study and do a researh such as quantum mechanic especially. In the future , i want to be mathematician and theorical division leader in the labolatory or industry to create something. 
+> I am kind of person who like to solve the problem in mathematic and get deep understanding on specfic topic of mathematic. Moreover , physic is also my favorite
+> subject that i like to study and do a researh such as quantum mechanic especially. In the future , i want to be mathematician and theorical division leader in
+> the labolatory or industry to create something. 
 
 
 ---
