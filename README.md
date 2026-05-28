@@ -35,7 +35,6 @@
 <img src="https://img.shields.io/badge/Differential%20Equations-dc2626?style=for-the-badge&logo=latex&logoColor=white"/>
 
 </p>
-
 ---
 
 # 🤖 Machine Learning Algorithms:
