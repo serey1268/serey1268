@@ -4,7 +4,7 @@
 > Department of Applied Mathematics and Statistics  
 > Passionate about Mathematics, Physics, Scientific Computing, and Machine Learning.  
 > Interested in theoretical mathematics, quantum mechanics, and advanced problem solving.  
-> Future goal: becoming a mathematician and leading a theoretical division in research or industry.
+> Future goal: becoming a mathematician and leading a theoretical division in research labolatory or industry.
 
 ---
 
